@@ -2,7 +2,7 @@
 
 ## Описание
 
-Этот репозиторий создан для хакатона по созданию инструмента трансормации изображения в стиль ТеДо.
+Этот репозиторий создан для задачи хакатона по созданию инструмента трансормации изображения в стиль ТеДо.
 
 ## Подготовка системы
 1. `curl -fsSL https://nvidia.github.io/libnvidia-container/gpgkey | sudo gpg --dearmor -o /usr/share/keyrings/nvidia-container-toolkit-keyring.gpg \
